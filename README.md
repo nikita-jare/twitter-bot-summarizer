@@ -44,9 +44,8 @@ Follow these steps to get started with the Twitter Bot Summarizer:
 6. Run the Twitter Bot Summarizer:
     ```bash
     python scheduler.py
-
-
-Contact 📧
+    
+## Contact 📧
 Have questions, suggestions, or just want to chat? Feel free to reach out to me:
 
 Email: nikitajare2022@gmail.com
