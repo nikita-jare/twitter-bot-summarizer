@@ -1,0 +1,39 @@
+INFO:root:[SCHEDULER STARTED] at 2023-10-01T22:25:39.775263 UTC
+INFO:root:[SCHEDULER] Processing query: 'What is JWT in Javascript?', num_of_tweets: None
+INFO:root:[TWITTER BOT INITIALISED]
+INFO:root:[METAPHOR API IS COOL]: Search successful
+INFO:root:[METAPHOR API IS COOL]: Webpage content retrieved
+INFO:root:[ALL CLEANED UP]
+INFO:root:[ALL SUMMARIZED JUST FOR YOU]
+INFO:root:[Go CHECKOUT YOUR TWEET] : ['Title:JSON Web Tokens\nJWT is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. a JWT can be sent through a URL, through a POST param\nhttps://auth0.com/docs/secure/tokens/json-web-tokens', '(Part 1)\neter, or inside an HTTP header, and transmitted quickly. the recipient of a JWT also does not need to call a server to validate the token.']
+INFO:root:TWITTER BOT STOPPED
+INFO:root:YAYY! Execution successful for: 'What is JWT in Javascript?', num_of_tweets: 1
+INFO:root:[SCHEDULER] Waiting for 1 minute before the next query.
+INFO:root:[SCHEDULER STARTED] at 2023-10-01T22:26:49.022352 UTC
+INFO:root:[SCHEDULER] Processing query: 'Most innovative AI projects', num_of_tweets: None
+INFO:root:[TWITTER BOT INITIALISED]
+INFO:root:[METAPHOR API IS COOL]: Search successful
+INFO:root:[METAPHOR API IS COOL]: Webpage content retrieved
+INFO:root:[ALL CLEANED UP]
+INFO:root:[ALL SUMMARIZED JUST FOR YOU]
+INFO:root:[Go CHECKOUT YOUR TWEET] : ['Title:This AI Supercomputer Has 13.5 Million Cores—and Was Built in Just Three Days\na decade ago, machine learning algorithms relied on tens of millions of internal\nhttps://singularityhub.com/2022/11/22/this-ai-supercomputer-has-13-5-million-cores-and-was-built-in-just-three-days/', '(Part 1)\n connections, or parameters. scaling up still yields performance gains, and models with tens of trillions of parameters may arrive in short order. the company’s Wafer Scale Engine is the biggest silicon chip in the world, boasting 2.6 trillion transistors.']
+INFO:root:TWITTER BOT STOPPED
+INFO:root:YAYY! Execution successful for: 'Most innovative AI projects', num_of_tweets: 1
+INFO:root:[SCHEDULER] Waiting for 1 minute before the next query.
+INFO:root:[SCHEDULER STARTED] at 2023-10-01T22:27:56.719171 UTC
+INFO:root:[SCHEDULER] Processing query: 'Where to party in NYC?', num_of_tweets: 2
+INFO:root:[TWITTER BOT INITIALISED]
+INFO:root:[METAPHOR API IS COOL]: Search successful
+INFO:root:[METAPHOR API IS COOL]: Webpage content retrieved
+INFO:root:[ALL CLEANED UP]
+INFO:root:[ALL SUMMARIZED JUST FOR YOU]
+INFO:root:[Go CHECKOUT YOUR TWEET] : ["Title:New York Nightclubs, Pool Parties, Events & Nightlife News - Discotech - The #1 Nightlife App\nthe city that never sleeps has one of the world's most vibrant nightlife scenes. the city comes alive after dusk — it blushes on its avenues, whis\nhttps://www.discotech.me/new-york/", '(Part 1)\npers on its bridges, grumbles in its bars, and roars in its clubs.']
+INFO:root:[METAPHOR API IS COOL]: Webpage content retrieved
+INFO:root:[ALL CLEANED UP]
+INFO:root:[ALL SUMMARIZED JUST FOR YOU]
+INFO:root:[Go CHECKOUT YOUR TWEET] : ['Title:Top 10 Best Nightclubs in New York City [Updated 2023] -Discotech\nthe best nightclubs in the city in 2023 are the longest-running and most world-renowned NYC clubs that feature the biggest DJ acts or the\nhttps://www.discotech.me/new-york/best-nightclubs-in-nyc-new-york-city/', '(Part 1)\n most expensive, exclusive venues where the rich, famous, and fashion models play. the app event info refreshes daily, pulling from various entertainment online resources including the official websites of the clubs themselves.']
+INFO:root:TWITTER BOT STOPPED
+INFO:root:YAYY! Execution successful for: 'Where to party in NYC?', num_of_tweets: 2
+INFO:root:[SCHEDULER] Waiting for 1 minute before the next query.
+INFO:root:[SCHEDULER STARTED] at 2023-10-01T22:29:08.725353 UTC
+INFO:root:[SCHEDULER] No more queries to process. Exiting.
