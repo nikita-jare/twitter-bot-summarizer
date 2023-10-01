@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+metaphor_python==0.1.16
+networkx==3.1
+nltk==3.8.1
+numpy==1.26.0
+Requests==2.31.0
+schedule==1.2.1
+transformers==4.33.3
+tweepy==4.14.0
