@@ -1,6 +1,6 @@
 # Twitter Bot Summarizer 🤖📰
 
-Welcome to Twitter Bot Summarizer – the ultimate tool for generating concise summaries of trending topics from Twitter! This innovative project combines the power of Twitter's real-time data with natural language processing to bring you summarized insights and more.
+Welcome to Twitter Bot Summarizer – the tool for generating concise summaries of latest topics of your choice and posting on Twitter!
 
 ## Features ✨
 - **Find recent relevant information** Using Metaphor API, retrieve latest relevant information to the topic.
